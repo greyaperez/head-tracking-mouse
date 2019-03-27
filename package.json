@@ -1,0 +1,14 @@
+{
+  "name": "eye-tracking-hack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "robotjs": "^0.5.1",
+    "socket.io": "^2.2.0"
+  }
+}
